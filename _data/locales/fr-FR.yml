@@ -5,14 +5,12 @@
 layout:
   post: Post
   category: Catégorie
-  tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Accueil
   categories: Catégories
-  tags: Tags
   archives: Archives
   about: À propos
 

@@ -5,14 +5,12 @@
 layout:
   post: Inlägg #Post
   category: Kategori #Category
-  tag: Tagga #Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Hem #Home
   categories: Kategorier #Categories
-  tags: Taggar #Tags
   archives: Arkiv #Archives
   about: Om #About
 

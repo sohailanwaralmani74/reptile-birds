@@ -5,14 +5,12 @@
 layout:
   post: Julkaisu
   category: Kateogoria
-  tag: Tagi
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Koti
   categories: Kateogoriat
-  tags: Tagit
   archives: Arkistot
   about: Minusta
 

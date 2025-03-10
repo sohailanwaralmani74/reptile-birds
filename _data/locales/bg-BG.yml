@@ -5,14 +5,12 @@
 layout:
   post: Публикация
   category: Категория
-  tag: Таг
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Начало
   categories: Категории
-  tags: Тагове
   archives: Архив
   about: За мен
 

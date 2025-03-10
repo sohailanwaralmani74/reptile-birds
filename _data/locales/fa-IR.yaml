@@ -5,14 +5,12 @@
 layout:
   post: پست
   category: دسته‌بندی
-  tag: برچسب
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: خانه
   categories: دسته‌بندی‌ها
-  tags: برچسب‌ها
   archives: آرشیو
   about: درباره
 

@@ -5,14 +5,12 @@
 layout:
   post: Δημοσίευση
   category: Κατηγορία
-  tag: Ετικέτα
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   categories: Κατηγορίες
-  tags: Ετικέτες
   archives: Αρχεία
   about: Σχετικά
 

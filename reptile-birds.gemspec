@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-chirpy"
+  spec.name          = "reptile-birds"
   spec.version       = "7.2.4"
-  spec.authors       = ["Cotes Chung"]
-  spec.email         = ["cotes.chung@gmail.com"]
+  spec.authors       = ["Sohail Anwar"]
+  spec.email         = ["sohailanwaralmani74@gmail.com"]
 
-  spec.summary       = "A minimal, responsive, and feature-rich Jekyll theme for technical writing."
-  spec.homepage      = "https://github.com/cotes2020/jekyll-theme-chirpy"
+  spec.summary       = "Find Nearshore Software Development Companies, Software Solutions Like OLTP, OLAP, CRM, HRM, Dev Tools. Also Find Resumes For Software Engineers."
+  spec.homepage      = "https://github.com/sohailanwaralmani74/reptile-birds"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
@@ -15,11 +15,11 @@ Gem::Specification.new do |spec|
   }
 
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy/issues",
-    "documentation_uri" => "https://github.com/cotes2020/jekyll-theme-chirpy/#readme",
+    "bug_tracker_uri"   => "https://github.com/cotes2020/reptile-birds/issues",
+    "documentation_uri" => "https://github.com/cotes2020/reptile-birds/#readme",
     "homepage_uri"      => "https://cotes2020.github.io/chirpy-demo",
-    "source_code_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy",
-    "wiki_uri"          => "https://github.com/cotes2020/jekyll-theme-chirpy/wiki",
+    "source_code_uri"   => "https://github.com/cotes2020/reptile-birds",
+    "wiki_uri"          => "https://github.com/cotes2020/reptile-birds/wiki",
     "plugin_type"       => "theme"
   }
 

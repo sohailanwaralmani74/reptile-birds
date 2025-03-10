@@ -5,14 +5,12 @@
 layout:
   post: Bài viết
   category: Danh mục
-  tag: Thẻ
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Trang chủ
   categories: Các danh mục
-  tags: Các thẻ
   archives: Lưu trữ
   about: Giới thiệu
 

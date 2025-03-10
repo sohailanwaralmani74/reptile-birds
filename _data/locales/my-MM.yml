@@ -5,14 +5,12 @@
 layout:
   post: ပို့စ်
   category: ကဏ္ဍ
-  tag: နာမ(တက်ဂ်)
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: အဓိကစာမျက်နှာ
   categories: ကဏ္ဍများ
-  tags: နာမ(တက်ဂ်)များ
   archives: မှတ်တမ်း​တိုက်
   about: အကြောင်းအရာ
 

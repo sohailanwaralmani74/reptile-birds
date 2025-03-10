@@ -5,14 +5,12 @@
 layout:
   post: منشور
   category: فئة
-  tag: وسم
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: الرئيسية
   categories: الفئات
-  tags: الوسوم
   archives: الأرشيف
   about: حول
 

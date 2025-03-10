@@ -5,14 +5,12 @@
 layout:
   post: Bejegyzés
   category: Kategória
-  tag: Címke
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Kezdőlap
   categories: Kategóriák
-  tags: Címkék
   archives: Archívum
   about: Bemutatkozás
 

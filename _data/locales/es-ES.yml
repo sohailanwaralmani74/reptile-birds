@@ -5,14 +5,12 @@
 layout:
   post: Entrada
   category: Categoría
-  tag: Etiqueta
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Inicio
   categories: Categorías
-  tags: Etiquetas
   archives: Archivo
   about: Acerca de
 

@@ -5,14 +5,12 @@
 layout:
   post: Публікація
   category: Категорія
-  tag: Тег
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Домашня сторінка
   categories: Категорії
-  tags: Теги
   archives: Архів
   about: Про сайт
 

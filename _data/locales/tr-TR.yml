@@ -5,14 +5,12 @@
 layout:
   post: Gönderi
   category: Kategori
-  tag: Etiket
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Ana Sayfa
   categories: Kategoriler
-  tags: Etiketler
   archives: Arşiv
   about: Hakkında
 

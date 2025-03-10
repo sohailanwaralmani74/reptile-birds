@@ -5,14 +5,12 @@
 layout:
   post: โพสต์
   category: หมวดหมู่
-  tag: แท็ก
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: หน้าแรก
   categories: หมวดหมู่
-  tags: แท็ก
   archives: คลังเก็บ
   about: เกี่ยวกับ
 

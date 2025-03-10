@@ -5,14 +5,12 @@
 layout:
   post: 포스트
   category: 카테고리
-  tag: 태그
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: 홈
   categories: 카테고리
-  tags: 태그
   archives: 아카이브
   about: 정보
 

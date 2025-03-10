@@ -5,14 +5,12 @@
 layout:
   post: Příspěvek
   category: Kategorie
-  tag: Štítek
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Domů
   categories: Kategorie
-  tags: Štítky
   archives: Archivy
   about: O mně
 

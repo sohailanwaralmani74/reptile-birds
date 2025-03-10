@@ -1,9 +1,8 @@
 ---
 title: Writing a New Post
-author: cotes
+author: Sohail Anwar
 date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+categories: [Software Development, Jekyll]
 render_with_liquid: false
 ---
 
