@@ -1,8 +1,6 @@
 # Bundler cache
 .bundle
 vendor
-Gemfile.lock
-
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
@@ -23,5 +21,4 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
-_sass/vendors
-assets/js/dist
+
