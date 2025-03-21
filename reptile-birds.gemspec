@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sohailanwaralmani74@gmail.com"]
 
   spec.summary       = "Find Nearshore Software Development Companies, Software Solutions Like OLTP, OLAP, CRM, HRM, Dev Tools. Also Find Resumes For Software Engineers."
-  spec.homepage      = "https://sohailanwaralmani74.github.io/reptile-birds"
+  spec.homepage      = "https://sohailanwaralmani74.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
